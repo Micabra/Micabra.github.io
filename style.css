@@ -1,0 +1,22 @@
+h2 {
+    border-radius: 10px;
+    background-color: brown;
+    border: solid;
+    color: black;
+}
+img {
+    border-radius: 100px;
+    border: solid 5px red;
+}
+h4{
+    border-radius: 10px;
+    background-color: lightpink;
+    border: solid;
+}
+body {
+    background-image: url(rosas.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
